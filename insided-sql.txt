@@ -1,0 +1,17 @@
+===Database insided
+
+== Table structure for table pageviews
+
+|------
+|Column|Type|Null|Default
+|------
+|//**pageviewcounter**//|bigint(20)|No|0
+== Table structure for table posts
+
+|------
+|Column|Type|Null|Default
+|------
+|//**post_id**//|bigint(11)|No|
+|post_title|varchar(75)|No|
+|post_image|varchar(250)|No|
+|post_date|datetime|No|
